@@ -13,7 +13,7 @@ keşifsel veri analizi (EDA) ve görselleştirme
 
 ## Analizler
 - Pokémon Dataset
-
+- Gold Price Forecasting Datasets
 ## Amaç
 Veri analizi pratiği yapmak ve çalışmaları
 GitHub üzerinde paylaşmak.
